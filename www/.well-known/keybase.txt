@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/mattikus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mattikus.com
+  * I am mattikus (https://keybase.io/mattikus) on keybase.
+  * I have a public key with fingerprint 6C02 B160 84D6 7912 0937  199C 963A 11F2 332C 06C5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010782fa68871069365fdf3d4ee5136bcfc1602980a5b438e24f663d9349a990a60a",
+      "fingerprint": "6c02b16084d679120937199c963a11f2332c06c5",
+      "host": "keybase.io",
+      "key_id": "963a11f2332c06c5",
+      "kid": "01010782fa68871069365fdf3d4ee5136bcfc1602980a5b438e24f663d9349a990a60a",
+      "uid": "1bb6d729989cef514d35b53a4e10bf00",
+      "username": "mattikus"
+    },
+    "merkle_root": {
+      "ctime": 1539983207,
+      "hash_meta": "d7573558c007007db1f7d4e29f94ae571690e4569c0daa1dd35464e4877ce7fd",
+      "seqno": 3822944
+    },
+    "revoke": {
+      "sig_ids": [
+        "4b823cbc35d545d718585998af3c80e4c16ab088c2b6df8a9a16a93b1e93b1e10f"
+      ]
+    },
+    "service": {
+      "hostname": "mattikus.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1539983238,
+  "expire_in": 157680000,
+  "prev": "f48dd8de18931947f03a9550f0352ffe90f950eaf5c9d32503249fbb987cbea9",
+  "seqno": 62,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMKyAnicrVNfiFRVHJ6dTHFx+/OgvZTZ1YfKcT3nnj/3nLEe0sCXKCzwYf9N5+/O
+ZXbmjvfemdR1yiCFCAoihClcsbJ1X4KSeki2pqUgky0RhS020oxN8aEwqAez6dyh
+CKTH7r3cwzn3+77f9/vuOZ8N3JLr77txfmzZwz9Xrvadnms2csNfbj846clI7/GK
+k17F9AYzoU2Sliqh9ooegO4OmG8FZSyAgHJEidUWaWwMgYhKZRWkwOcMCCIxYsbH
+llKkOcJccA4EBcIreDasjZu4Hoe11MlSBXzpaAxrGnDoA44CyLniFAkIrY+QrwBV
+xBHLUZIxnDkpEjMYRm7NTUo9e/+B/599N3pyUEqqA59zxpWxBGKNiCRIYAOBtABk
+wMTENVE1Dl0VaRpWGonXKnhVE1cmTCmOojQLV6VhBoEEOS3kg8A1KJJyqWpS4Zg6
+IAEihCkAAvdoCW3gHPvcciwMCSDlwGBCuQJaCKidDUyxwSwIlAmsdj4Ss6sWeUXE
+fJ9j7BzEphlVTFY8CcddbIlXHPawZD5SUiGiCSY6gIww4iwJixRzJVw2QgLGlO8a
+t0xw4RY4ktD0XhBYb7SVFYuboeqJZ//ppv4HVVR1jupxlEYqmnBfymlaT4pZLume
+egZ9xsjS3yIlGda02yWO0TRxEkY1l5ND3hQZYgXP7K6HsSmFGYIElAF3ZXVM00la
+zLRm2kDGEeQ4sAAJTghwI/GtNRxYToARliiukU8A8jG3UnIWKGkE/zdD6jufYtxp
+uuRqIm3ExmvNdUaW5fr6c8tvzWfHJ9e/8o5/DtXrr63oRs/Nzjy9uvvxlv33fTrQ
+Wb9v8sE/b1vzUqG943b69vrnF1+Mry99fXFXe+v0K+Jce6jSupy/VPBra55Y+Hwm
+7vtk6cMno2PHxqZ+fXlbvrnhhZF1m2b+eLf8lVm3AZy7+0yufPbZnb+sfazz+L17
+R018dfPcwkLrB723O3rn1u9HHkjfin6blO2Ti9vmX52Ya9FNq5a+PXTlwvbv3n/j
+LNz5QffQjhv3nx8POqeOXz9D+YqBgcGl91YdPLW6dXrz4f2zG6e2tAdnf58/OZy/
+duKbL+ofHVloPNW/+Gbhrmv7SHFq5aND80cuH+jUTuy+54BZzOe7F8feGTp+9Mfl
+Px1ee7R2YeP0Iw+NXbk0/Rf8XoOo
+=DLSO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mattikus
+
+==================================================================
