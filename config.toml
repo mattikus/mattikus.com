@@ -1,3 +1,60 @@
-baseURL = "http://mattikus.com/"
+baseURL = "https://mattikus.com/"
 languageCode = "en-us"
-title = "meow"
+#title = ""
+
+theme = "coder"
+
+enableRobotsTXT = true
+relativeURLS = true
+
+[params]
+    author = "Matt Kemp"
+    description = "Matt Kemp's personal website"
+    keywords = "blog,developer,personal"
+    info = ""
+    avatarurl = "avatar.jpeg"
+    footercontent = "Ventis secundis, tene cursum."
+    favicon_32 = "icon.png"
+    favicon_16 = "icon.png"
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/mattikus/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/mattikus/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/mattikus/"
+
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
+#[[menu.main]]
+#    name = "About"
+#    weight = 2
+#    url = "/about/"
+#[[menu.main]]
+#    name = "Projects"
+#    weight = 3
+#    url = "/projects/"
+#[[menu.main]]
+#    name = "Contact me"
+#    weight = 5
+#    url = "/contact/"
+#
