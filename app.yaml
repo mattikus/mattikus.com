@@ -7,7 +7,6 @@ handlers:
     upload: public/index.html
     secure: always
 
-  - url: /(.*)
-    static_files: public/\1
-    upload: public/(.*)
+  - url: /
+    static_dir: public/
     secure: always
