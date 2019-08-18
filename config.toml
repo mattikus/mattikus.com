@@ -1,6 +1,6 @@
-baseURL = "https://mattikus.com/"
+baseURL = ""
 languageCode = "en-us"
-#title = ""
+title = ""
 
 theme = "coder"
 
@@ -19,8 +19,8 @@ relativeURLS = true
 
     dateformat = "January 2, 2006"
 
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
